@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.final
+{
+	text-decoration:inherit;
+	align:center;
+	
+	color:red;
+	font-size:36px;
+}
